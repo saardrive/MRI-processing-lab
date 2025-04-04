@@ -1,0 +1,9 @@
+bart toolbox - יש שם Tutorials בהם יש הרבה מאד חומר, אפשר ללכת לפרק של פייתון, לWebiner4 material ולעשות אותו וגם את Webiner2 material
+https://mrirecon.github.io/bart/
+בנוסף מאמרים לקרוא:
+לקרוא עד Figure5:
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.mriquestions.com/uploads/3/4/5/7/34572113/parallel_imaging_review1-s2.0-s0079656517300031-main.pdf
+לקרוא הכל ולהבין היטב:
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2308.02958
+לקרוא לאורך זמן:
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2404.15692
